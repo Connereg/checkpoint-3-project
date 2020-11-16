@@ -1,0 +1,7 @@
+module.exports = [
+    {temptestName: "Conner is learning", temptestPhone: "0000000000", temptestEmail: "devmountain.com", temptestTitle: "Practicing Automation Sorry!", temptestID: "666", startingName: "Hairny Doppler", startingPhone: "9000000000", startingEmail: "Hairny@Shogshwartz.dumb", startingTitle: "Your a Squizzard Hairny", startingID: "6732"},
+    {temptestName: "Conner is learning", temptestPhone: "0000000000", temptestEmail: "devmountain.com", temptestTitle: "Practicing Automation Sorry!", temptestID: "623", startingName: "hello", startingPhone: "1111111111", startingEmail: "abc", startingTitle: "New Employee", startingID: "6733" },
+    {temptestName: "Conner is learning", temptestPhone: "0000000000", temptestEmail: "devmountain.com", temptestTitle: "Practicing Automation Sorry!", temptestID: "1", startingName: "Bernice Ortiz", startingPhone: "4824931093", startingEmail: 'bortiz@gmail.com', startingTitle: "CEO", startingID: "6730" },
+    {temptestName: "Conner is learning", temptestPhone: "0000000000", temptestEmail: "devmountain.com", temptestTitle: "Practicing Automation Sorry!", temptestID: "5", startingName: "Marnie Barnett", startingPhone: "3094812387", startingEmail: 'mbarnett@hotmail.com', startingTitle: "CTO", startingID: "5" }   
+
+]
